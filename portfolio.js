@@ -98,7 +98,7 @@ document.addEventListener('DOMContentLoaded', function() {
         {
             titre: "Datalogie",
             imgSrc: "media/images/affiche303.png",
-            logoSrc: "media/images/poulet.jpg",
+            logoSrc: "media/images/verre-a-vin.png",
             description: "L'objectif était de réaliser une datalogie avec des objets spécifiques pour représenter des données. Nous avions pour but de représenter le taux de consommation d'alcool dans le monde avec des verres de différentes tailles.",
             missions: "Recherches, analyse et simplification des données, prises de photos des verres remplis, léger montage des photos, création de l'affiche finale.",
             hardSkills: "Maîtrise d'Adobe Photoshop, de matériels audiovisuel, capacité d'analyse",
