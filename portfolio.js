@@ -119,7 +119,7 @@ document.addEventListener('DOMContentLoaded', function() {
             titre: "Webmagazine IUTopie 2050",
             imgSrc: "media/images/iutopie.png",
             logoSrc: "media/images/magazine.png",
-            description: "L'objectif était de créer un webmagazine commun à la classe et d'y ajouter, en binome, un article rédigé et dont le référencement SEO ai été optimisé",
+            description: "L'objectif était de créer un webmagazine commun à la classe et d'y ajouter, en binome, un article rédigé et dont le référencement SEO a été optimisé",
             missions: "Brainstorming, recherches d'un sujet, d'un format, travail rédaction et d'optimisation SEO, prises de vues, montage",
             hardSkills: "Compétences rédactionnelles, connaissances en référencement et optimisation SEO, compétences en production audiovisuelle",
             softSkills: "Travail d'équipe, gestion du temps, autonomie",
